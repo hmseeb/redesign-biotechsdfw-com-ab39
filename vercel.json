@@ -1,0 +1,94 @@
+{
+  "redirects": [
+    {
+      "source": "/faqs",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/faqs/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/areas-we-service/mckinney-tx",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/areas-we-service/mckinney-tx/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/areas-we-service/frisco-tx",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/areas-we-service/frisco-tx/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/areas-we-service/biohazard-cleanup-plano-tx",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/areas-we-service/biohazard-cleanup-plano-tx/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/areas-we-service/biohazard-cleanup-dallas-tx",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/areas-we-service/biohazard-cleanup-dallas-tx/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/areas-we-service/biohazard-cleanup-arlington-tx",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/areas-we-service/biohazard-cleanup-arlington-tx/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/biohazard-cleanup",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/biohazard-cleanup/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/cleanup/crime-scene/tx/fort-worth",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/cleanup/crime-scene/tx/fort-worth/",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}
