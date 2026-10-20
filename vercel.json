@@ -89,6 +89,11 @@
       "source": "/cleanup/crime-scene/tx/fort-worth/",
       "destination": "/",
       "permanent": true
+    },
+    {
+      "source": "/admin",
+      "destination": "https://vision.leadrai.com/site-admin/site-f6c6f8f69ff8df026acfb0390567c33381e8",
+      "permanent": false
     }
   ]
 }
