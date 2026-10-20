@@ -94,6 +94,11 @@
       "source": "/admin",
       "destination": "https://vision.leadrai.com/site-admin/site-f6c6f8f69ff8df026acfb0390567c33381e8",
       "permanent": false
+    },
+    {
+      "source": "/review",
+      "destination": "https://vision.leadrai.com/r/APzLYlcpZyb7KbjTdO2t6X3ZF39FIvhUPUkIrhhSNu4",
+      "permanent": false
     }
   ]
 }
